@@ -1,15 +1,4 @@
-# AsaanAI# اپنی پسند کی جگہ چلیں، پھر:
-mkdir AsaanAI-starter
-cd AsaanAI-starter
 
-# backend اور flutter_app فولڈر بنائیں
-mkdir backend flutter_app# repo initialize
-git init
-git add .
-git commit -m "Initial AsaanAI starter"
-
-# GitHub پر ریپو بنائیں (web) — نام: AsaanAI-starter
-# پھر remote add کریں (نیچے URL کو اپنے ریپو کے URL سے بدلیں)
 git remote add origin https://github.com/YOUR_USERNAME/AsaanAI-starter.git
 git branch -M main
 git push -u origin maincd backend
